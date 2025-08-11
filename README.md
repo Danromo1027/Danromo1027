@@ -18,7 +18,7 @@
 > End-to-end fraud detection solution using Python, Pandas, Scikit-learn, and XGBoost.  
 > Features: Data preprocessing, feature engineering, model training, evaluation, and deployment-ready structure.  
 
-📂 [View Project on GitHub]([https://github.com/TU_USUARIO/TU_REPO](https://github.com/Danromo1027/Financial-fraud-detection-AML-proyect.git))
+📂 [View Project on GitHub](https://github.com/Danromo1027/Financial-fraud-detection-AML-proyect.git)
 
 ---
 
